@@ -1,2 +1,2 @@
 # animation
-# Simple battery animation, nothing special
+Simple battery animation, nothing special
